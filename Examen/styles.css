@@ -1,0 +1,171 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-size: medium;
+}
+
+
+.body{
+    display: flex;
+}
+
+
+.izquierda{
+    width: 15%;
+    background-color: #984851
+}
+
+.izquierda img{
+    border-radius: 100%;
+    width: 200px;
+    height: 200px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.izquierda h1{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+}
+.izquierda h2{
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+}
+
+.opciones{
+    padding-top: 60px;
+}
+
+.opciones li{
+    text-align: center;
+    border: 2px solid white;
+    padding: 25px;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+.opciones a{
+    text-decoration: none;
+    color: white;
+}
+
+.contactme{
+    border-bottom: 1px;
+    border-color: white;
+}
+
+.iconos{
+    display: flex;
+    color: white;
+    gap: 5px;
+    justify-content: center;
+    list-style: none;
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+
+.iconos i{
+    border: #61282e solid;
+    padding: 10px;
+    background-color: #61282e;
+}
+
+
+.copyright{
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+}
+
+.copyright hr{
+    padding-bottom: 20px;
+    border-right: none;
+    border-bottom: none;
+    border-left: none;
+}
+
+.copyright p{
+    text-align: center;
+    color: white;
+    padding-bottom: 30px;
+}
+
+
+
+
+
+
+
+
+
+.derecha{
+    display: flex;
+    width: 85%;
+    background-image: url(https://media.istockphoto.com/id/517188688/es/foto/paisaje-de-monta%C3%B1a.jpg?s=612x612&w=0&k=20&c=EnSd5sJdxih_svZHscQ5Hfzr3RSOdXO9MpdmKK4CMTs=);
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-direction: column;
+    
+}
+
+.derecha img{
+    width: 200px;
+}
+
+.titulo{
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.titulo h1{
+    text-align: center;
+}
+.titulo hr{
+    width: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+
+.titulo p{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.textocompleto1{
+    display: flex;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.texto1{
+    display: flex;
+    flex-direction: column;
+    padding-top: 10px;
+}
+
+
+.texto2{
+    display: flex;
+    flex-direction: column;
+}
+
+.texto2 h1{
+
+}
+.imagen2{
+    display: flex;
+    align-self: flex-end;
+}
+
+
+
+
+
+   
